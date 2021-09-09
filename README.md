@@ -1,2 +1,3 @@
 # chuck-norris-actuator
-Assignment ofr chuck norris
+
+Assignment for chuck norris
